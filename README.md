@@ -1,4 +1,4 @@
-# Covid_WebView_App
+# COVID info mobile app
 Mobile Application to view the latest COVID-19 cases
 <br />
 <br />
