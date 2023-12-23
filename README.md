@@ -1,5 +1,5 @@
 # Covid_WebView_App
-Simple Covid-19 cases and news apllication to get information from a mobile app.
+Mobile Application to view the latest COVID-19 cases
 <br />
 <br />
 <br /><br />
